@@ -47,10 +47,10 @@ Tag      |  Move   |
 ----     | ------  | 
 only one hand needed
 <kbd>menu</kbd>+<kbd>holding</kbd> | display function of each button
-<kbd>trigger</kbd> | grab objects / IKFK markers on markers
+<kbd>trigger</kbd>+<kbd>moving</kbd> | grab objects / IKFK markers on markers
 <kbd>trackpad</kbd> | select a marker
 <kbd>trackpad</kbd>+<kbd>doubleClicks</kbd> | deselect selected marker
-<kbd>grip</kbd> | move and rotate myself
+<kbd>grip</kbd>+<kbd>moving</kbd> | move and rotate myself
 <kbd>trigger</kbd>+<kbd>doubleClicks</kbd> | grab selected object on GUI window
 <kbd>trackpad</kbd> | select multi objects on GUI window
 two hands needed
