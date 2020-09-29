@@ -26,7 +26,7 @@ This functions on VR controllers are as below,
 
 ## [Mod Settings]
 - Setting:      
---None
+  -- None
 
 ## [Modes & Controls]
 
