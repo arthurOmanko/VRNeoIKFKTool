@@ -37,7 +37,7 @@ These tools are mainly meant to be used in *standing mode* but some of them are 
 **You can get in-game help any time by holding the menu button!**
 
 ### KoumeiTool (seated / standing)
-![preview](https://user-images.githubusercontent.com/68005887/92324350-d72e4980-f07b-11ea-9ac0-073b22da5fe8.png)
+![icon_gripmove](https://user-images.githubusercontent.com/68005887/94588035-5e0ec480-02be-11eb-85c8-973ee351812e.png)
 
 #### UI/UX abstract on KoumeiTool
 Tag      |  Move   | 
