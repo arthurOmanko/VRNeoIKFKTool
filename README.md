@@ -6,7 +6,7 @@ This functions on VR controllers are as below,
 - Grab objects / IKFK markers and move/rotation them
 - Scale objects
 - Call objects in front of you
-- Parent objects /IKFK markers with own controllers (syncing both)
+- Parent objects / IKFK markers with own controllers (syncing both)
 
 ## [Installation]
 1. Extract the zip file into User's HoneySelect directory.
