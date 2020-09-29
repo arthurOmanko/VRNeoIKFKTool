@@ -58,7 +58,7 @@ two hands needed
 <kbd>trackpad</kbd>+<kbd>trigger</kbd> | scale selected object (each XYZ-axis)
 
 ## Option on GUI window
-###Trigger each icon on GUI window  
+### Trigger each icon on GUI window  
 
 ![icon_call](https://user-images.githubusercontent.com/68005887/94591985-c7dd9d00-02c3-11eb-85b5-dbe3c541413c.png)
 
