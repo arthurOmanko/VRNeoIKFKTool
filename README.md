@@ -46,7 +46,7 @@ These tools are mainly meant to be used in *standing mode* but some of them are 
 Tag      |  Move   | 
 ----     | ------  | 
 only one hand needed
-<kbd>menu</kbd>+<kbd>holding</kbd> | display function of each button
+<kbd>menu</kbd>+<kbd>holding</kbd> | display function of each button and recenter GUI window
 <kbd>trigger</kbd>+<kbd>moving</kbd> | grab objects / IKFK markers on markers
 <kbd>trackpad</kbd> | select a marker
 <kbd>trackpad</kbd>+<kbd>doubleClicks</kbd> | deselect selected marker and ungrabe grabbed
