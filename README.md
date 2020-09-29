@@ -37,7 +37,8 @@ These tools are mainly meant to be used in *standing mode* but some of them are 
 **You can get in-game help any time by holding the menu button!**
 
 ### KoumeiTool (seated / standing)
-![icon_gripmove](https://user-images.githubusercontent.com/68005887/94588035-5e0ec480-02be-11eb-85c8-973ee351812e.png)
+![icon_gripmove_forGit](https://user-images.githubusercontent.com/68005887/94588610-176d9a00-02bf-11eb-98c2-c065f4624709.png)
+
 
 #### UI/UX abstract on KoumeiTool
 Tag      |  Move   | 
@@ -50,17 +51,6 @@ only one hand needed
 <kbd>grip</kbd>+<kbd>holding + moving</kbd> | Koumei Grab/Touch (grabs and touches breasts, hips, hairs, skirts or items with DynamicBones etc.). This functions can also be used on other Tools.
 <kbd>trackpad</kbd>+<kbd>doubleClicks</kbd> | Koumei Gaze2 (along your sight, chara changes accessories)
 <kbd>trackpad</kbd>+<kbd>holding + moving</kbd> | Koumei Move (move + rotate)
-
-### ChageLightColorTool (Standing / Seated)
-![lightColor](https://user-images.githubusercontent.com/68005887/92324643-a996cf80-f07e-11ea-9c67-c6039d60e73d.png)
-
-#### UI/UX abstract on ChangeLightColor
-Tag      |  Move   | 
-----     | ------  | 
-only one hand needed
-<kbd>trackpad</kbd>+<kbd>holding + moving</kbd> | Change intensity or colors of front directional light
-<kbd>trigger holding</kbd>+<kbd>trackpad</kbd>+<kbd>holding + moving</kbd> | Change intensity or colors of back directional light
-<kbd>menu</kbd>+<kbd>holding</kbd> | display each fuction
 
 ## Settings & Tweaks
 
