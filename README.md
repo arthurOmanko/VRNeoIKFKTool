@@ -58,4 +58,14 @@ two hands needed
 <kbd>trackpad</kbd>+<kbd>trigger</kbd> | scale selected object (each XYZ-axis)
 
 ## Option on GUI window
+![icon_call](https://user-images.githubusercontent.com/68005887/94591985-c7dd9d00-02c3-11eb-85b5-dbe3c541413c.png)
 
+- Call a object in front of you
+
+![icon_call_xz](https://user-images.githubusercontent.com/68005887/94592000-ca3ff700-02c3-11eb-802a-b275d15bfb65.png)
+
+- Call a object in front of you (except for Y-axis position)
+
+![parent_child](https://user-images.githubusercontent.com/68005887/94592023-cd3ae780-02c3-11eb-98c9-1e312babd3c2.png)
+
+- Parent selected marker with your controller
