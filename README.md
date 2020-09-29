@@ -68,4 +68,4 @@ two hands needed
 
 ![parent_child](https://user-images.githubusercontent.com/68005887/94592023-cd3ae780-02c3-11eb-98c9-1e312babd3c2.png)
 
-- Parent selected marker with your controller
+- Parent selected marker with your controller (object syncing with your controller moving) 
