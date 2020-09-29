@@ -1,6 +1,6 @@
 # VRNeoIKFKTool
 
-This mod is one improving existing StudioNEOVR.dll which controls objects / IKFK markers on VR.
+This mod is one improving existing StudioNEOVR.dll which controls objects / IKFK markers on VR.  
 This functions on VR controllers are as below,
 
 - Grab objects / IKFK markers and move/rotation them
