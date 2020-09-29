@@ -36,7 +36,7 @@ These tools are mainly meant to be used in *standing mode* but some of them are 
 
 **You can get in-game help any time by holding the menu button!**
 
-### KoumeiTool (seated / standing)
+### NeoIKFKTool (seated / standing)
 ![icon_gripmove_forGit](https://user-images.githubusercontent.com/68005887/94588610-176d9a00-02bf-11eb-98c2-c065f4624709.png)
 
 
@@ -45,32 +45,14 @@ Tag      |  Move   |
 ----     | ------  | 
 only one hand needed
 <kbd>menu</kbd>+<kbd>holding</kbd> | display function of each button
-<kbd>trigger</kbd>+<kbd>doubleClicks</kbd> | Koumei Wind (generates wind)
-<kbd>trigger</kbd>+<kbd>holding + moving</kbd> | Koumei Strip (strips cloth of female in front of you.)
-<kbd>grip</kbd>+<kbd>doubleClicks</kbd> | Koumei Gaze1 (along your sight, chara changes clothes)
-<kbd>grip</kbd>+<kbd>holding + moving</kbd> | Koumei Grab/Touch (grabs and touches breasts, hips, hairs, skirts or items with DynamicBones etc.). This functions can also be used on other Tools.
-<kbd>trackpad</kbd>+<kbd>doubleClicks</kbd> | Koumei Gaze2 (along your sight, chara changes accessories)
-<kbd>trackpad</kbd>+<kbd>holding + moving</kbd> | Koumei Move (move + rotate)
+<kbd>trigger</kbd> | grab objects / IKFK markers on markers
+<kbd>trackpad</kbd> | select a marker
+<kbd>trackpad</kbd>+<kbd>doubleClicks</kbd> | deselect selected marker
+<kbd>grip</kbd> | move and rotate myself
+<kbd>trigger</kbd>+<kbd>doubleClicks</kbd> | grab selected object on GUI window
+<kbd>trackpad</kbd> | select multi objects on GUI window
+two hands needed
+<kbd>trackpad</kbd>+<kbd>trackpad</kbd> | scale selected object (All-axis)
+<kbd>trackpad</kbd>+<kbd>trigger</kbd> | scale selected object (each XYZ-axis)
 
 ## Settings & Tweaks
-
-Settings can be changed in the file *VRKoumeiToolConfig.xml*, which is generated the first time you start the game.  
-Tag      | Default | Effect |
-----     | ------  | ------ |
-`<HandScale>` | 1,1,1 | The size of VR controllers.
-`<VelocityBufferSize>` | 5 | The buffer for speed calculation of VR controllers. Bigger, more proper.
-`<Damping>` | 0.2 | The inverse of speed of return from bones changing. Smaller, more speedy.
-`<GrabDampingDivisor>` | 16 | The speed of return from bones changing when grabbing. Bigger, more speedy.
-`<GrabForceMultiplikator>` | 8 | The strength of grabbing. Bigger, stronger.
-`<TouchRadius>` | 0.1 | The effective range of touching.
-`<GrabRadius>` | 0.15 | The effective range of grabbing.
-`<FixVrLightning>` | true | Whether or not using Light Color Tool on VR.
-`<PleasureForceMin>` | 0.1 | The minimum of strength of grabbing for going finishing.
-`<BreastPleasure>` | 0.0005 | The rate of increasing of pleasure on grabbing. On breasts or hips, effective.
-`<WindStrength>` | 1 | The strength of wind.
-`<WindDuration>` | 0.8 | The duration of wind. Bigger, more duration. [0 .. 0.999]
-`<StripForce>` | 0.005 | The needed speed of VR controllers for stripping cloth.
-`<StripRadius>` | 0.15 | The maximum of needed range for stripping cloth.
-`<HasRumbling>` | true | Whether or not rumbling when touching. 'Rumble = true' setting needed in VRGIN Setting.
-`<RumbleRadius>` | 0.07 | The effective range of rumbling when touching.
- 
