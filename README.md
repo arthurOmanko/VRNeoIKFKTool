@@ -57,4 +57,5 @@ two hands needed
 <kbd>trackpad</kbd>+<kbd>trackpad</kbd> | scale selected object (All-axis)
 <kbd>trackpad</kbd>+<kbd>trigger</kbd> | scale selected object (each XYZ-axis)
 
-## Settings & Tweaks
+## Option on GUI window
+
