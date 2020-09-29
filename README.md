@@ -39,6 +39,8 @@ These tools are mainly meant to be used in *standing mode* but some of them are 
 ### NeoIKFKTool (seated / standing)
 ![icon_gripmove_forGit](https://user-images.githubusercontent.com/68005887/94588610-176d9a00-02bf-11eb-98c2-c065f4624709.png)
 
+- red marker : grabbing any object or IKFK marker  
+- white marker : grabbing nothing but might select any marker  
 
 #### UI/UX abstract on KoumeiTool
 Tag      |  Move   | 
