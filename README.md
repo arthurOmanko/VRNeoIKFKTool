@@ -49,7 +49,7 @@ only one hand needed
 <kbd>menu</kbd>+<kbd>holding</kbd> | display function of each button
 <kbd>trigger</kbd>+<kbd>moving</kbd> | grab objects / IKFK markers on markers
 <kbd>trackpad</kbd> | select a marker
-<kbd>trackpad</kbd>+<kbd>doubleClicks</kbd> | deselect selected marker
+<kbd>trackpad</kbd>+<kbd>doubleClicks</kbd> | deselect selected marker and ungrabe grabbed
 <kbd>grip</kbd>+<kbd>moving</kbd> | move and rotate myself
 <kbd>trigger</kbd>+<kbd>doubleClicks</kbd> | grab selected object on GUI window
 <kbd>trackpad</kbd> | select multi objects on GUI window
