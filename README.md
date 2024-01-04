@@ -68,6 +68,10 @@ two hands needed
 <kbd>1.trackpad</kbd>+<kbd>2.trackpad</kbd> | scale selected object (All-axis)
 <kbd>1.trackpad</kbd>+<kbd>2.trigger</kbd> | scale selected object (each XYZ-axis along with controller)
 ## About manipulating the weight of IK/FK marker
+Advanced IK from HSStudioNEOAddon.dll can manipulate weights of a chara's IK [0..1]. This mod enables to manipulate the weights for both IK/FK by VR controllers.
+In case that IKFK weights set by this mod (grip + triple/quadruple clicks), when weight of a IKFK marker is 0% (0.0), the marker move with charas and dont fix any chara's moving.
+Or when weight of a IKFK marker is 100% (1.0), the marker fixes chara's moving at correspondent bone. When weight of a IKFK marker is 50% (0.5), the marker fixes, to some extent, chara's moving at correspondent bone.
+Advanced IK GUI can do same in more details (on only IK not FK).
 
 ## Option on GUI window
 ### Trigger each icon on GUI window  
