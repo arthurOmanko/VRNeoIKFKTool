@@ -86,7 +86,7 @@ two hands needed
 
 <img src="https://github.com/arthurOmanko/VRNeoIKFKTool/assets/68005887/e818d50e-6ab9-420e-aeaa-15007ec047b8" width="200" height="150">
 
-- Advanced IK: same as one from HSStudioNEOAddon.dll. User can manipulate details of IK/FK or start VMD (MikuMikuDance) etc.
-- Move with Main Camera: VRCamera moves with Game Main Camera. For example, this enables VRCamera to emulate camera moving of MMD (MikuMikuDance). 
-- Move with Item: VRCamera moves with GameObject. For example, this enables VRCamera to follow with moving object. 
+- [Advanced IK]: same as one from HSStudioNEOAddon.dll. User can manipulate details of IK/FK or start VMD (MikuMikuDance) etc.
+- [Move with Main Camera]: VRCamera moves with Game Main Camera. For example, this enables VRCamera to emulate camera moving of MMD (MikuMikuDance). 
+- [Move with Item]: VRCamera moves with GameObject. For example, this enables VRCamera to follow with moving object. 
 
