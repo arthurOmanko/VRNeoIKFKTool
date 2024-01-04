@@ -9,7 +9,7 @@ This functions on VR controllers are as below,
 - Scale objects
 - Call objects in front of you
 - Parent objects / IKFK markers with own controllers (syncing both)
-- Make VRCamera follow with Game MainCamera or any selected item
+- Make VRCamera follow Game MainCamera or any selected item
 - Move and Rotate
 
 ## [Installation]
@@ -88,5 +88,5 @@ two hands needed
 
 - [Advanced IK]: same as one from HSStudioNEOAddon.dll. User can manipulate details of IK/FK or start VMD (MikuMikuDance) etc.
 - [Move with Main Camera]: VRCamera moves with Game Main Camera. For example, this enables VRCamera to emulate camera moving of MMD (MikuMikuDance). 
-- [Move with Item]: VRCamera moves with GameObject. For example, this enables VRCamera to follow moving gameObject. 
+- [Move with Item]: VRCamera moves with selected GameObject. For example, this enables VRCamera to follow selected moving gameObject. 
 
