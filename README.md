@@ -54,7 +54,7 @@ Tag                |  Move     |
 only one hand needed
 <kbd>menu</kbd>+<kbd>holding</kbd> | display function of each button and recenter GUI window (+ 2.0s)
 <kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | select and grab selected object on GUI window
-<kbd>trackpad</kbd> | select multi objects on GUI window
+<kbd>trackpad</kbd> | select multiple objects on GUI window
 <kbd>trigger</kbd>+<kbd>moving</kbd> | grab and move/rotate a object / IKFK marker on the object / marker (or already selected one). Or When 0% weight of the marker, the weight gets 100%.
 <kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | change the value of a IKFK marker weight on the marker (100% -> 50% -> 0%) (only for markers of charas whose weights once were changed before by grip Triple/Quadruple clicks)
 <kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | IKFK markers shown or not shown (when not on a object / IKFK marker, laser for GUI invisible)
