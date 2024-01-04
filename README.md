@@ -54,13 +54,13 @@ only one hand needed
 <kbd>menu</kbd>+<kbd>holding</kbd> | display function of each button and recenter GUI window
 <kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | select and grab selected object on on GUI window
 <kbd>trackpad</kbd> | select multi objects on GUI window
-<kbd>trigger</kbd>+<kbd>moving</kbd> | grab a object / IKFK marker on the object / marker
+<kbd>trigger</kbd>+<kbd>moving</kbd> | grab a object / IKFK marker on the object / marker. Or if 0% weight of the marker, the weight gets 100%.
 <kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | change the value of a IKFK marker weight on the marker (100% -> 50% -> 0%) (only for markers of charas whose weights once were changed before by grip Triple/Quadruple clicks)
 <kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | IKFK markers shown or not shown (when not on a object / IKFK marker, laser for GUI invisible)
 <kbd>trackpad</kbd> | select a object / IKFK marker on the object / marker
 <kbd>trackpad</kbd>+<kbd>DoubleClicks</kbd> | deselect selected object / IKFK marker and ungrab all grabbed one 
-<kbd>grip</kbd>+<kbd>TripleClicks</kbd> | make weights of all IKFK markers (only enabled) of selected charas get 100% 
-<kbd>grip</kbd>+<kbd>QuadrupleClicks</kbd> | make weights of all IKFK markers (only enabled) of selected charas get 0% 
+<kbd>grip</kbd>+<kbd>TripleClicks</kbd> | make weights of all IKFK markers (only enabled) of selected charas get 100%. During chara animation, IKFK positions fixed.
+<kbd>grip</kbd>+<kbd>QuadrupleClicks</kbd> | make weights of all IKFK markers (only enabled) of selected charas get 0%. During chara animation, IKFK positions unfixed.
 <kbd>grip</kbd>+<kbd>moving</kbd> | move and rotate myself
 <kbd>grip</kbd>+<kbd>trigger</kbd>+<kbd>menu</kbd>+<kbd>0.5s</kbd> | All axes rotation on/off when moving
 two hands needed
