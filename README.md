@@ -88,5 +88,5 @@ two hands needed
 
 - [Advanced IK]: same as one from HSStudioNEOAddon.dll. User can manipulate details of IK/FK or start VMD (MikuMikuDance) etc.
 - [Move with Main Camera]: VRCamera moves with Game Main Camera. For example, this enables VRCamera to emulate camera moving of MMD (MikuMikuDance). 
-- [Move with Item]: VRCamera moves with GameObject. For example, this enables VRCamera to follow with moving object. 
+- [Move with Item]: VRCamera moves with GameObject. For example, this enables VRCamera to follow moving gameObject. 
 
