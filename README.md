@@ -82,4 +82,7 @@ two hands needed
 
 ![parent_child](https://user-images.githubusercontent.com/68005887/94592023-cd3ae780-02c3-11eb-98c9-1e312babd3c2.png)
 
-- Parent selected marker with your controller (object syncing with your controller moving/rotating) 
+- Parent selected marker with your controller (object syncing with your controller moving/rotating)
+
+![advanced](https://github.com/arthurOmanko/VRNeoIKFKTool/assets/68005887/e818d50e-6ab9-420e-aeaa-15007ec047b8)
+
