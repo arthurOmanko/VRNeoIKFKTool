@@ -26,7 +26,8 @@ This functions on VR controllers are as below,
 ## [Requirements]
 - Game updated with the last patch and DLC installed.
 - Installed and set up SteamVR.
-- public HoneySelect VRmod (by Eusth) or improved HoneySelect VRmod (one integrating IBL&LRE made by arthurOmanko). 
+- public HoneySelect VRmod (by Eusth) or improved HoneySelect VRmod (one integrating IBL&LRE made by arthurOmanko).
+- StudioNEOAddon.dll ver
 
 ## [Mod Settings]
 - Setting:      
@@ -43,7 +44,7 @@ These tools are mainly meant to be used in *standing mode* but some of them are 
 ### NeoIKFKTool (seated / standing)
 ![icon_gripmove_forGit](https://user-images.githubusercontent.com/68005887/94588610-176d9a00-02bf-11eb-98c2-c065f4624709.png)
 
-- red marker : grabbing or selecting any object or IKFK marker  
+- red marker : preparing to grab or select a object / IKFK marker, or already grabbing or selecting any object / IKFK marker  
 - white marker : grabbing or selecting nothing  
 
 #### UI/UX abstract on KoumeiTool
@@ -54,8 +55,9 @@ only one hand needed
 <kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | select and grab selected object on on GUI window
 <kbd>trackpad</kbd> | select multi objects on GUI window
 <kbd>trigger</kbd>+<kbd>moving</kbd> | grab a object / IKFK marker on the object / marker
-<kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | IKFK markers shown or not shown
-<kbd>trackpad</kbd> | select a object / IKFK marker
+<kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | change the value of IKFK marker weight on the marker (100% -> 50% -> 0%) (only for markers of charas whose weights once were changed before by grip Triple/Quadruple clicks)
+<kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | IKFK markers shown or not shown (not on a object / IKFK marker, laser for GUI invisible)
+<kbd>trackpad</kbd> | select a object / IKFK marker on the object / marker
 <kbd>trackpad</kbd>+<kbd>DoubleClicks</kbd> | deselect selected object / IKFK marker and ungrab all grabbed one 
 <kbd>grip</kbd>+<kbd>TripleClicks</kbd> | make weights of all IKFK markers (only enabled) of selected charas get 100% 
 <kbd>grip</kbd>+<kbd>QuadrupleClicks</kbd> | make weights of all IKFK markers (only enabled) of selected charas get 0% 
