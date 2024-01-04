@@ -67,6 +67,7 @@ only one hand needed
 two hands needed
 <kbd>trackpad</kbd>+<kbd>trackpad</kbd> | scale selected object (All-axis)
 <kbd>trackpad</kbd>+<kbd>trigger</kbd> | scale selected object (selected each XYZ-axis)
+## About manipulating the weight of IK/FK marker
 
 ## Option on GUI window
 ### Trigger each icon on GUI window  
