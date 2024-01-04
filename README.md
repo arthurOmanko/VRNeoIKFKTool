@@ -43,20 +43,27 @@ These tools are mainly meant to be used in *standing mode* but some of them are 
 ### NeoIKFKTool (seated / standing)
 ![icon_gripmove_forGit](https://user-images.githubusercontent.com/68005887/94588610-176d9a00-02bf-11eb-98c2-c065f4624709.png)
 
-- red marker : grabbing any object or IKFK marker  
-- white marker : grabbing nothing but might be selecting any marker  
+- red marker : grabbing or selecting any object or IKFK marker  
+- white marker : grabbing or selecting nothing  
 
 #### UI/UX abstract on KoumeiTool
 Tag      |  Move   | 
 ----     | ------  | 
 only one hand needed
 <kbd>menu</kbd>+<kbd>holding</kbd> | display function of each button and recenter GUI window
-<kbd>trigger</kbd>+<kbd>moving</kbd> | grab objects / IKFK markers on markers
-<kbd>trackpad</kbd> | select a marker
-<kbd>trackpad</kbd>+<kbd>doubleClicks</kbd> | deselect selected marker and ungrabe grabbed
-<kbd>grip</kbd>+<kbd>moving</kbd> | move and rotate myself
-<kbd>trigger</kbd>+<kbd>doubleClicks</kbd> | grab selected object on GUI window
+<kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | select and grab selected object on on GUI window
 <kbd>trackpad</kbd> | select multi objects on GUI window
+
+<kbd>trigger</kbd>+<kbd>moving</kbd> | grab a object / IKFK marker on the object / marker
+<kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | IKFK markers shown or not shown
+<kbd>trackpad</kbd> | select a object / IKFK marker
+<kbd>trackpad</kbd>+<kbd>DoubleClicks</kbd> | deselect selected object / IKFK marker and ungrab all grabbed one 
+
+<kbd>grip</kbd>+<kbd>TripleClicks</kbd> | make weights of all IKFK markers (only enabled) of selected charas get 100% 
+<kbd>grip</kbd>+<kbd>QuadrupleClicks</kbd> | make weights of all IKFK markers (only enabled) of selected charas get 0% 
+<kbd>grip</kbd>+<kbd>moving</kbd> | move and rotate myself
+<kbd>grip</kbd>+<kbd>trigger</kbd>+<kbd>menu</kbd>+<kbd>0.5s</kbd> | All axes rotation on/off when moving
+
 two hands needed
 <kbd>trackpad</kbd>+<kbd>trackpad</kbd> | scale selected object (All-axis)
 <kbd>trackpad</kbd>+<kbd>trigger</kbd> | scale selected object (each XYZ-axis)
