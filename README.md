@@ -9,7 +9,7 @@ This functions on VR controllers are as below,
 - Scale objects
 - Call objects in front of you
 - Parent objects / IKFK markers with own controllers (syncing both)
-- Make VRCamera follow Game MainCamera or any selected item
+- Make VRCamera follow Game MainCamera or any selected gameObject
 - Move and Rotate
 
 ## [Installation]
