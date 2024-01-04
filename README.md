@@ -65,7 +65,7 @@ only one hand needed
 <kbd>grip</kbd>+<kbd>trigger</kbd>+<kbd>menu</kbd>+<kbd>0.5s</kbd> | All axes rotation on/off when moving
 two hands needed
 <kbd>trackpad</kbd>+<kbd>trackpad</kbd> | scale selected object (All-axis)
-<kbd>trackpad</kbd>+<kbd>trigger</kbd> | scale selected object (each XYZ-axis)
+<kbd>trackpad</kbd>+<kbd>trigger</kbd> | scale selected object (selected each XYZ-axis)
 
 ## Option on GUI window
 ### Trigger each icon on GUI window  
@@ -76,7 +76,7 @@ two hands needed
 
 ![icon_call_xz](https://user-images.githubusercontent.com/68005887/94592000-ca3ff700-02c3-11eb-802a-b275d15bfb65.png)
 
-- Call a object in front of you (except for Y-axis position)
+- Call a object in front of you (except for the height)
 
 ![parent_child](https://user-images.githubusercontent.com/68005887/94592023-cd3ae780-02c3-11eb-98c9-1e312babd3c2.png)
 
