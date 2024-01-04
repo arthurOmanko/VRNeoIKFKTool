@@ -50,7 +50,7 @@ These tools are mainly meant to be used in *standing mode* but some of them are 
 
 #### UI/UX abstract on KoumeiTool
 Tag      |  Move   | 
-----     | ------  | 
+:----:     | :------:  | 
 only one hand needed
 <kbd>menu</kbd>+<kbd>holding</kbd> | display function of each button and recenter GUI window (+ 2.0s)
 <kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | select and grab selected object on on GUI window
