@@ -49,7 +49,7 @@ These tools are mainly meant to be used in *standing mode* but some of them are 
 - white marker : grabbing or selecting nothing  
 
 #### UI/UX abstract on KoumeiTool
-Tag &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |  Move   | 
+Tag                |  Move     | 
 :------------:     | :------:  | 
 only one hand needed
 <kbd>menu</kbd>+<kbd>holding</kbd> | display function of each button and recenter GUI window (+ 2.0s)
