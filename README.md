@@ -66,7 +66,7 @@ only one hand needed
 <kbd>grip</kbd>+<kbd>trigger</kbd>+<kbd>menu</kbd>+<kbd>0.5s</kbd> | All axes rotation on/off when moving
 two hands needed
 <kbd>trackpad</kbd>+<kbd>trackpad</kbd> | scale selected object (All-axis)
-<kbd>trackpad</kbd>+<kbd>trigger</kbd> | scale selected object (selected each XYZ-axis)
+<kbd>trackpad</kbd>+<kbd>trigger</kbd> | scale selected object (each XYZ-axis along with controller)
 ## About manipulating the weight of IK/FK marker
 
 ## Option on GUI window
