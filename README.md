@@ -52,7 +52,7 @@ These tools are mainly meant to be used in *standing mode* but some of them are 
 Tag      |  Move   | 
 ----     | ------  | 
 only one hand needed
-<kbd>menu</kbd>+<kbd>holding</kbd> | display function of each button and recenter GUI window
+<kbd>menu</kbd>+<kbd>holding</kbd> | display function of each button and recenter GUI window (+ 2.0s)
 <kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | select and grab selected object on on GUI window
 <kbd>trackpad</kbd> | select multi objects on GUI window
 <kbd>trigger</kbd>+<kbd>moving</kbd> | grab a object / IKFK marker on the object / marker. Or if 0% weight of the marker, the weight gets 100%.
