@@ -28,7 +28,7 @@ This functions on VR controllers are as below,
 - Game updated with the last patch and DLC installed.
 - Installed and set up SteamVR.
 - public HoneySelect VRmod (by Eusth) or improved HoneySelect VRmod (one integrating IBL&LRE made by arthurOmanko).
-- StudioNEOAddon.dll ver
+- HSStudioNEOAddon.dll version 0.9.2 (or more (not guaranteed))
 
 ## [Mod Settings]
 - Setting:      
