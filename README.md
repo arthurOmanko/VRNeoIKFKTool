@@ -19,7 +19,8 @@ This functions on VR controllers are as below,
 **Caution!** 
 - This mod might rewrite some existing files and cause some bugs depending on User's environment.
   Please back up Game root folder before installing necessarily.
-- I dont know you can or cant use this mod on StudioNeo. But if you use improved HoneySelect VRmod (one integrating IBL&LRE made by arthurOmanko), you would be able to use this mod on StudioNeo.  
+- I dont know you can or cant use this mod on StudioNeo. But if you use improved HoneySelect VRmod (one integrating IBL&LRE made by arthurOmanko), you would be able to use this mod on StudioNeo.
+- GGmod DLL (for clothes with high heels) might sometimes affect IK/FK of chara with high heels attached by GGmod, so during VR environment, the look, necklock or IK/FK of the chara might sometimes get weird. Then once please take off/put on clothes (especially high heels attached by GGmod). The any weird situation of the chara would get fixed.
 - If you using other VR tools as of now except for here, your game might work unproperly. Then reconsider removing other VR tools (${GameFolder}/Plugins/*.dll files etc.). For example, might have to remove StudioNEOVR.dll, GripMoveForHSVRStudio.dll or GripMoveForHSVR.dll.  
 
 ## [Requirements]
