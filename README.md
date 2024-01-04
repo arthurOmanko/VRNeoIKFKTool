@@ -5,6 +5,7 @@ This functions on VR controllers are as below,
 
 - Grab objects / IKFK markers and move/rotation them
 - Operate IK/FK weight
+- IK/FK shown or not shown
 - Scale objects
 - Call objects in front of you
 - Parent objects / IKFK markers with own controllers (syncing both)
