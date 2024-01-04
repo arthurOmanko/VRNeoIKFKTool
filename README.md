@@ -4,9 +4,12 @@ This mod is one improving existing StudioNEOVR.dll which controls objects / IKFK
 This functions on VR controllers are as below,
 
 - Grab objects / IKFK markers and move/rotation them
+- Operate IK/FK weight
 - Scale objects
 - Call objects in front of you
 - Parent objects / IKFK markers with own controllers (syncing both)
+- Make VRCamera follow with Game MainCamera or any selected item
+- Move and Rotate
 
 ## [Installation]
 1. Extract the zip file into User's HoneySelect directory.
