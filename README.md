@@ -68,8 +68,12 @@ two hands needed
 <kbd>1.trackpad</kbd>+<kbd>2.trackpad</kbd> | scale selected object (All-axis)
 <kbd>1.trackpad</kbd>+<kbd>2.trigger</kbd> | scale selected object (each XYZ-axis along with controller)
 ## About manipulating the weight of IK/FK marker
-Advanced IK from HSStudioNEOAddon.dll can manipulate weights of a chara's IK [0..1]. This mod enables to manipulate the weights for both IK/FK by VR controllers. **This can be used in order to manipulate all or parts of selected charas without stopping animation during chara animation on VR environment.**  
-In case that IKFK weights set for selected charas by this mod (grip + triple/quadruple clicks), when weight of a IKFK marker is 0% (0.0), the marker moves with charas and does not fix any chara's moving.
+Advanced IK from HSStudioNEOAddon.dll can manipulate weights of a chara's IK [0..1]. This mod enables to manipulate the weights for both IK/FK by VR controllers using it.
+**This can be used in order to manipulate all or parts of selected charas without stopping animation during chara animation on VR environment.**  
+User can select some charas on GUI and when grip + Triple/Quadruple clicks, all IK and enabled some FK markers of selected charas are registered within mod data and their weights get able to be controlled. 
+(Caution: currently only FK markers of neck and hands can be registered within mod data. Other FK markers (toe (body), hairs, skirts etc.) can not be registerd so not controlled by this mod. 
+If User dont want FKs fixed during animation, disable the FKs from the game menu).   
+In case that IKFK weights set for selected charas by this mod (grip + Triple/Quadruple clicks), when weight of a IKFK marker is 0% (0.0), the marker moves with charas and does not fix any chara's moving.
 Or when weight of a IKFK marker is 100% (1.0), the marker fixes chara's moving at correspondent bone. When weight of a IKFK marker is 50% (0.5), the marker fixes, to some extent, chara's moving at correspondent bone.  
 Weight of IKFK marker can be changed by (trigger + Double clicks) on the marker, 100% (-> 50% for only IK) -> 0%. Or When trigger 0% marker, weight of the marker gets 100%.  
 Caution:   
