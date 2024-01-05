@@ -30,6 +30,9 @@ This functions on VR controllers are as below,
 - public HoneySelect VRmod (by Eusth) or improved HoneySelect VRmod (one integrating IBL&LRE made by arthurOmanko).
 - HSStudioNEOAddon.dll version 0.9.2 (or more (not guaranteed))
 
+## [Uninstall]
+Please remove VRNeoIKFKTool.dll in (${GameFolder}\Plugins).
+
 ## [Mod Settings]
 - Setting:      
   -- None
