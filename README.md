@@ -74,6 +74,23 @@ Or when weight of a IKFK marker is 100% (1.0), the marker fixes chara's moving a
 Weight of IKFK marker can be changed by (trigger + Double clicks) on the marker, 100% (-> 50% for only IK) -> 0%. Or When trigger 0% marker, weight of the marker gets 100%.  
 Advanced IK GUI can do same in more details on both VR and normal environment (on only IK not FK).  
 
+<table>
+<tr>
+  <th>見出し1</th>
+  <th>見出し2</th>
+  <th>見出し3</th>
+</tr>
+<tr>
+  <td>内容1-1</td>
+  <td>内容1-2</td>
+  <td>内容1-3</td>
+</tr>
+<tr>
+  <td colspan=2>内容2-1</td>
+  <td>内容2-3</td>
+</tr>
+</table>
+
 ## Option on GUI window
 ### Trigger each icon on GUI window  
 
