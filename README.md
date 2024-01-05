@@ -75,25 +75,25 @@ Weight of IKFK marker can be changed by (trigger + Double clicks) on the marker,
 Advanced IK GUI can do same in more details on both VR and normal environment (on only IK not FK).  
 
 <table>
-<tr>
+<tr align="center">
   <th> </th>
   <th>Weight 100%</th>
   <th>Weight 50%</th>
   <th>Weight 0%</th>
 </tr>
-<tr>
+<tr align="center">
   <th>IK (red)</th>
   <th><img src="https://github.com/arthurOmanko/VRNeoIKFKTool/assets/68005887/ebc447d1-5c18-4e92-b783-397ce70e7dcf" width="50" height="50"></th>
   <th><img src="https://github.com/arthurOmanko/VRNeoIKFKTool/assets/68005887/b18c94c4-f51b-4c1a-b6ae-fda228e0652f" width="50" height="50"></th>
   <th><img src="https://github.com/arthurOmanko/VRNeoIKFKTool/assets/68005887/b161b42d-1ad6-47aa-9964-29701a02d554" width="50" height="50"></th>
 </tr>
-<tr>
+<tr align="center">
   <td>IK (blue)</td>
   <td><img src="https://github.com/arthurOmanko/VRNeoIKFKTool/assets/68005887/1000aaab-5027-4c42-b27e-15bb1281decf" width="50" height="50"></td>
   <td><img src="https://github.com/arthurOmanko/VRNeoIKFKTool/assets/68005887/40b63852-56ef-4364-9a54-7143c02b1634" width="50" height="50"></td>
   <td><img src="https://github.com/arthurOmanko/VRNeoIKFKTool/assets/68005887/96458dd8-eb15-48b4-b61f-61627cfbce03" width="50" height="50"></td>
 </tr>
-<tr>
+<tr align="center">
   <td>FK (white)</td>
   <td><img src="https://github.com/arthurOmanko/VRNeoIKFKTool/assets/68005887/c32175c7-bd0f-4178-9538-cc55efe35347" width="50" height="50"></td>
   <td>---</td>
