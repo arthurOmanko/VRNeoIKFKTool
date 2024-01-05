@@ -76,18 +76,28 @@ Advanced IK GUI can do same in more details on both VR and normal environment (o
 
 <table>
 <tr>
-  <th>見出し1</th>
-  <th>見出し2</th>
-  <th>見出し3</th>
+  <th> </th>
+  <th>Weight 100%</th>
+  <th>Weight 50%</th>
+  <th>Weight 0%</th>
 </tr>
 <tr>
-  <td>内容1-1</td>
-  <td>内容1-2</td>
-  <td>内容1-3</td>
+  <th>IK (red)</th>
+  <th> </th>
+  <th> </th>
+  <th> </th>
 </tr>
 <tr>
-  <td colspan=2>内容2-1</td>
-  <td>内容2-3</td>
+  <td>IK (blue)</td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+</tr>
+<tr>
+  <td>FK (white)</td>
+  <td> </td>
+  <td>---</td>
+  <td> </td>
 </tr>
 </table>
 
