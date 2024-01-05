@@ -72,6 +72,7 @@ Advanced IK from HSStudioNEOAddon.dll can manipulate weights of a chara's IK [0.
 In case that IKFK weights set for selected charas by this mod (grip + triple/quadruple clicks), when weight of a IKFK marker is 0% (0.0), the marker moves with charas and does not fix any chara's moving.
 Or when weight of a IKFK marker is 100% (1.0), the marker fixes chara's moving at correspondent bone. When weight of a IKFK marker is 50% (0.5), the marker fixes, to some extent, chara's moving at correspondent bone.  
 Weight of IKFK marker can be changed by (trigger + Double clicks) on the marker, 100% (-> 50% for only IK) -> 0%. Or When trigger 0% marker, weight of the marker gets 100%.  
+Caution:   
 Advanced IK GUI can do same in more details on both VR and normal environment (on only IK not FK).  
 
 <table>
