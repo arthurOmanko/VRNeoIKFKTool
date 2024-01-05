@@ -73,18 +73,18 @@ Advanced IK from HSStudioNEOAddon.dll can manipulate weights of a chara's IK [0.
 User can select some charas on GUI and when grip + Triple/Quadruple clicks, all IK and some of all enabled FK markers of selected charas are registered within mod data and their weights get able to be controlled. 
 (Caution: currently only FK markers of neck and hands can be registered within mod data. Other FK markers (toe (body), hairs, skirts etc.) can not be registerd so their weight not controlled by this mod. 
 If User does not want FKs fixed during animation, disable the FKs from the game menu in advance).   
-In case that IKFK weights set for selected charas by this mod (grip + Triple/Quadruple clicks), when weight of a IKFK marker is 0% (0.0), the marker moves with charas and does not fix any chara's moving.
-Or when weight of a IKFK marker is 100% (1.0), the marker fixes chara's moving at correspondent bone. When weight of a IKFK marker is 50% (0.5), the marker fixes, to some extent, chara's moving at correspondent bone.  
-Weight of IKFK marker can be changed by (trigger + Double clicks) on the marker, 100% (-> 50% for only IK) -> 0%. Or When trigger 0% marker, weight of the marker gets 100%.  
-Caution:   
+In case that IKFK weights set for selected charas by this mod (grip + Triple/Quadruple clicks), when weight of a IKFK marker is 0% (0.0), the marker moves with charas and does not fix any chara's moving at correspondent bone.
+Or when weight of a IKFK marker is 100% (1.0), the marker fixes chara's moving at correspondent bone. When weight of a IK marker is 50% (0.5), the marker fixes, to some extent, chara's moving at correspondent bone.  
+Weight of IKFK marker can be changed by (trigger + Double clicks) on the marker, 100% (-> 50% for only IK) -> 0%. Or When trigger 0% marker, weight of the marker gets 100%.
+Especially when chaging weights of arm or leg by (trigger + Double clicks), weights of both red and blue markers attached at it are changed to same value at same time.  
 Advanced IK GUI can do same in more details on both VR and normal environment (on only IK not FK).  
 
 <table>
 <tr align="center">
   <th> </th>
-  <th>Weight 100%</th>
-  <th>Weight 50%</th>
-  <th>Weight 0%</th>
+  <th>Weight 100% (1.0)</th>
+  <th>Weight 50% (0.5)</th>
+  <th>Weight 0% (0.0)</th>
 </tr>
 <tr align="center">
   <th>IK (red)</th>
