@@ -84,20 +84,20 @@ Advanced IK GUI can do same in more details on both VR and normal environment (o
 <tr>
   <th>IK (red)</th>
   <th><img src="https://github.com/arthurOmanko/VRNeoIKFKTool/assets/68005887/ebc447d1-5c18-4e92-b783-397ce70e7dcf" width="50" height="50"></th>
-  <th> </th>
-  <th> </th>
+  <th><img src="" width="50" height="50"></th>
+  <th><img src="" width="50" height="50"></th>
 </tr>
 <tr>
   <td>IK (blue)</td>
-  <td> </td>
-  <td> </td>
-  <td> </td>
+  <td><img src="" width="50" height="50"></td>
+  <td><img src="" width="50" height="50"></td>
+  <td><img src="" width="50" height="50"></td>
 </tr>
 <tr>
   <td>FK (white)</td>
-  <td> </td>
+  <td><img src="" width="50" height="50"></td>
   <td>---</td>
-  <td> </td>
+  <td><img src="" width="50" height="50"></td>
 </tr>
 </table>
 
