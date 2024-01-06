@@ -129,7 +129,7 @@ Advanced IK GUI can do same in more details on both VR and normal environment (o
 
 <img src="https://github.com/arthurOmanko/VRNeoIKFKTool/assets/68005887/e818d50e-6ab9-420e-aeaa-15007ec047b8" width="200" height="150">
 
-- [Advanced IK]: same as one from HSStudioNEOAddon.dll. User can manipulate details (weights etc.) of IK, AutoTrack for parent/child or start VMD (MikuMikuDance) etc.
+- [Advanced IK]: same as one from HSStudioNEOAddon.dll. User can manipulate details (weights etc.) of IK, AutoTrack for parent/child or start VMD (MikuMikuDance) etc. About MMD, by installing other appriciate mods, User might also be able to do same on VNGE.
 - [Move with Main Camera]: VRCamera moves with Game Main Camera. For example, this enables VRCamera to emulate moving camera of MMD (MikuMikuDance). 
 - [Move with Item]: VRCamera moves with selected GameObject. For example, this enables VRCamera to follow selected moving gameObject. 
 
