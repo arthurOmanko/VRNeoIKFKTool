@@ -29,6 +29,7 @@ This functions on VR controllers are as below,
 - Installed and set up SteamVR.
 - public HoneySelect VRmod (by Eusth) or improved HoneySelect VRmod (one integrating IBL&LRE made by arthurOmanko).
 - HSStudioNEOAddon.dll version 0.9.2 (or more (not guaranteed))
+- ${GameFolder}\Plugins\0Harmony.dll
 
 ## [Uninstall]
 Please remove VRNeoIKFKTool.dll in (${GameFolder}\Plugins).
