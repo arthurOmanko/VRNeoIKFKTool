@@ -66,7 +66,7 @@ only one hand needed
 <kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | change the value of a IKFK marker weight on the marker (100% -> 50% -> 0%) (only for markers of charas whose weights once were changed before by grip Triple/Quadruple clicks)
 <kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | IKFK markers shown or not shown (when not on a object / IKFK marker, laser for GUI invisible)
 <kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | ***<ins>Load registerd weights after scene loading (when not on a object / IKFK marker, laser for GUI invisible)</ins>***
-<kbd>trackpad</kbd> | select a object / IKFK marker on the object / marker. User gets able to manipulate it from a distance.
+<kbd>trackpad</kbd> | select a object / IKFK marker on the object / marker. User gets able to manipulate it from a distance. ***<ins>Or When 0% weight of the marker, the weight gets 100%.</ins>***
 <kbd>trackpad</kbd>+<kbd>DoubleClicks</kbd> | ***<ins>deselect selected object / IKFK marker and ungrab all grabbed one except for Objectlist.</ins>***
 <kbd>trackpad</kbd>+<kbd>TripleClicks</kbd> | ***<ins>deselect all including Objectlist.</ins>***
 <kbd>grip</kbd>+<kbd>DoubleClicks</kbd> | ***<ins>Load/Register current FKIK Marker weights on selected charas.</ins>***
