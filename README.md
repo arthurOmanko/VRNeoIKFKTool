@@ -58,12 +58,15 @@ Tag                |  Move     |
 only one hand needed
 <kbd>menu</kbd>+<kbd>holding</kbd> | display function of each button and recenter GUI window (+ 2.0s)
 <kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | select and grab selected object on GUI window
-<kbd>trackpad</kbd> | select multiple objects on GUI window
+<kbd>trackpad</kbd> | ***<ins>select/deselect multiple objects on GUI window</ins>***
 <kbd>trigger</kbd>+<kbd>moving</kbd> | grab and move/rotate a object / IKFK marker on the object / marker (or already selected one). Or When 0% weight of the marker, the weight gets 100%.
 <kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | change the value of a IKFK marker weight on the marker (100% -> 50% -> 0%) (only for markers of charas whose weights once were changed before by grip Triple/Quadruple clicks)
 <kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | IKFK markers shown or not shown (when not on a object / IKFK marker, laser for GUI invisible)
+<kbd>trigger</kbd>+<kbd>DoubleClicks</kbd> | ***<ins>Load registerd weights after scene loading (when not on a object / IKFK marker, laser for GUI invisible)</ins>***
 <kbd>trackpad</kbd> | select a object / IKFK marker on the object / marker. User gets able to manipulate it from a distance.
-<kbd>trackpad</kbd>+<kbd>DoubleClicks</kbd> | deselect selected object / IKFK marker and ungrab all grabbed one 
+<kbd>trackpad</kbd>+<kbd>DoubleClicks</kbd> | ***<ins>deselect selected object / IKFK marker and ungrab all grabbed one except for Objectlist.</ins>***
+<kbd>trackpad</kbd>+<kbd>TripleClicks</kbd> | ***<ins>deselect all including Objectlist.</ins>***
+<kbd>grip</kbd>+<kbd>DoubleClicks</kbd> | ***<ins>Load/Register current FKIK Marker weights on selected charas.</ins>***
 <kbd>grip</kbd>+<kbd>TripleClicks</kbd> | make weights of all IKFK markers (only enabled) of selected charas get 100%. During chara animation, IKFK positions fixed.
 <kbd>grip</kbd>+<kbd>QuadrupleClicks</kbd> | make weights of all IKFK markers (only enabled) of selected charas get 0%. During chara animation, IKFK positions unfixed.
 <kbd>grip</kbd>+<kbd>moving</kbd> | move and rotate myself
