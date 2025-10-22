@@ -1,5 +1,7 @@
 # VRNeoIKFKTool
 
+***(<ins>Updated items since previous version getting underline characters</ins>)***
+
 This mod is one improving existing StudioNEOVR.dll which controls objects / IKFK markers on VR.  
 This functions on VR controllers are as below,
 
