@@ -84,7 +84,7 @@ If User does not want FKs fixed during animation, disable the FKs from the game 
 In case that IKFK weights set for selected charas by this mod (grip + ***<ins>Double</ins>***/Triple/Quadruple clicks), when weight of a IKFK marker is 0% (0.0), the marker moves with charas and does not fix any chara's moving at correspondent bone.
 Or when weight of a IKFK marker is 100% (1.0), the marker fixes chara's moving at correspondent bone. When weight of a IK marker is 50% (0.5), the marker fixes, to some extent, chara's moving at correspondent bone.  
 Weight of IKFK marker can be changed by (trigger + Double clicks) on the marker, 100% (-> 50% for only IK) -> 0%. Or When trigger ***<ins>or trackpad</ins>*** 0% marker, weight of the marker gets 100%.
-Especially when chaging weights of markers of arm or leg by (trigger or trigger + Double clicks on a marker), weights of both red and blue markers attached at it are changed to same value at same time.  
+Especially when chaging weights of markers of arm or leg by (trigger, ***<ins>trackpad</ins>*** or trigger + Double clicks on a marker), weights of both red and blue markers attached at it are changed to same value at same time.  
 As I mentioned earlier, GGmod DLL (for clothes with high heels) might sometimes affect IK/FK of chara with high heels attached by GGmod, 
 so during VR environment, the look, necklock, leap motion up to a chara or IK/FK of the chara might sometimes get weird. 
 Then once please take off/put on clothes (especially high heels attached by GGmod). The any weird situation of the chara would get fixed.  
